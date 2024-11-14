@@ -1,0 +1,10 @@
+#wrapper {
+width: 150px;
+height: 150px;
+border: 1px solid #000000;
+cursor: pointer;
+}
+
+.bg-color {
+    background-color: rgba(0, 21, 255, 0.64);
+}
